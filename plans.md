@@ -12,7 +12,7 @@
 
 1. DONE Fill index.html with relevant content
 2. DONE Fill about.html with relevant content
-3. Fill contact-me.html with relevant content
+3. DONE Fill contact-me.html with relevant content
 4. Fill 404.html with relevant content
 5. Plan out index.js
 6. Complete index.js
