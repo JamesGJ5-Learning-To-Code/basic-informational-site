@@ -16,16 +16,16 @@
 4. DONE Fill 404.html with relevant content
 5. DONE Plan out index.js:
 
-    1. See https://www.w3schools.com/nodejs/nodejs_http.asp for req.url; this will allow 
+    1. DONE See https://www.w3schools.com/nodejs/nodejs_http.asp for req.url; this will allow 
     us to check if the part of the request after the domain name IS "/", "/about" or 
     "/contact-me". Not going to use a regular expression to check this, going to check 
     for an equality instead because queries etc. won't be accepted.
 
-    2. See https://www.w3schools.com/nodejs/nodejs_filesystem.asp for "Read Files": going 
+    2. DONE See https://www.w3schools.com/nodejs/nodejs_filesystem.asp for "Read Files": going 
     to do the check above and, based on what is found, write the contents of one of 
     home.html, about.html, contact-me.html and 404.html to the result, then return res.end().
 
-    3. Going to listen on port 8080.
+    3. DONE Going to listen on port 8080.
 
-6. Complete index.js
+6. DONE Complete index.js
 7. Try out the debugger with this application as in https://www.youtube.com/watch?v=2oFKNL7vYV8
