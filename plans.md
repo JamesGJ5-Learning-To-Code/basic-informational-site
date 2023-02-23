@@ -13,7 +13,7 @@
 1. DONE Fill index.html with relevant content
 2. DONE Fill about.html with relevant content
 3. DONE Fill contact-me.html with relevant content
-4. Fill 404.html with relevant content
+4. DONE Fill 404.html with relevant content
 5. Plan out index.js
 6. Complete index.js
 7. Try out the debugger with this application as in https://www.youtube.com/watch?v=2oFKNL7vYV8
