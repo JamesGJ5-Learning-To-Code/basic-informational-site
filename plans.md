@@ -28,5 +28,5 @@
     3. DONE Going to listen on port 8080.
 
 6. DONE Complete index.js
-7. Try out the debugger with this application as in https://www.youtube.com/watch?v=2oFKNL7vYV8
-8. Try out the Chrome DevTools debugger with this application
+7. DONE Try out the debugger with this application as in https://www.youtube.com/watch?v=2oFKNL7vYV8
+8. DONE Try out the Chrome DevTools debugger with this application
