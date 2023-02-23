@@ -10,7 +10,7 @@
 
 # My plans:
 
-1. Fill index.html with relevant content
+1. DONE Fill index.html with relevant content
 2. Fill about.html with relevant content
 3. Fill contact-me.html with relevant content
 4. Fill 404.html with relevant content
