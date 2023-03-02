@@ -46,6 +46,15 @@ app.get("/contact-me", function (req, res) {
     res.sendFile(path.join(__dirname, "/contact-me.html"));
 });
 
+app.get("/404", function (req, res) {
+    res.sendFile(path.join(__dirname, "/404.html"));
+});
+
+// NOTE: must come after the previous get statements
+app.get("*", function (req, res) {
+    res.redirect("/404");
+});
+
 app.listen(port, () => {
     console.log(`Basic informational website listening on port ${port}!`)
 });

@@ -19,7 +19,7 @@
         - See https://www.geeksforgeeks.org/express-js-res-sendfile-function/ and https://www.digitalocean.com/community/tutorials/use-expressjs-to-deliver-html-files for sendFile
     4. DONE Write an app.get for "/about", using res.sendFile to send about.html accordingly
     5. DONE Write an app.get for "/contact-me", using res.sendFile to send contact-me.html accordingly
-    6. Write an app.get for "/404", using res.sendFile to send 404.html accordingly. Then 
+    6. DONE Write an app.get for "/404", using res.sendFile to send 404.html accordingly. Then 
     write an app.get for '*', after all of the previous routes, that res.redirects to 
     "/404", like a default. See https://stackoverflow.com/questions/22673218/default-route-in-express-js
     7. Write a TODO to replace the above with proper routing and 404 status codes etc.
