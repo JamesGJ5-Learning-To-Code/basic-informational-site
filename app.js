@@ -46,10 +46,10 @@ app.get("/contact-me", function (req, res) {
     res.sendFile(path.join(__dirname, "/contact-me.html"));
 });
 
+// TODO: replace the below two statements with the most appropriate logic
 app.get("/404", function (req, res) {
     res.sendFile(path.join(__dirname, "/404.html"));
 });
-
 // NOTE: must come after the previous get statements
 app.get("*", function (req, res) {
     res.redirect("/404");
