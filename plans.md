@@ -13,8 +13,8 @@
 2. DONE Install express as is done under the "Using npm" heading at https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#using_npm (Express Application Generator would be overkill so won't use it). Ensure "main" in the package.json is "app.js"
 
 3. Rewrite app.js:
-    1. Initialise the express application in a constant called app
-    2. Initialise a port constant as "3000"
+    1. DONE Initialise the express application in a constant called app
+    2. DONE Initialise a port constant as "3000"
     3. Write an app.get for "/", using res.sendFile to send index.html accordingly
         - See https://www.geeksforgeeks.org/express-js-res-sendfile-function/ and https://www.digitalocean.com/community/tutorials/use-expressjs-to-deliver-html-files for sendFile
     4. Write an app.get for "/about", using res.sendFile to send about.html accordingly
