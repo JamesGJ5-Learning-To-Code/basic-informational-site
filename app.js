@@ -42,6 +42,10 @@ app.get("/about", function (req, res) {
     res.sendFile(path.join(__dirname, "/about.html"))
 });
 
+app.get("/contact-me", function (req, res) {
+    res.sendFile(path.join(__dirname, "/contact-me.html"));
+});
+
 app.listen(port, () => {
     console.log(`Basic informational website listening on port ${port}!`)
 });
