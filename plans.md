@@ -10,7 +10,7 @@
 
 1. DONE Rename index.js to app.js
 
-2. Install express as is done under the "Using npm" heading at https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#using_npm (Express Application Generator would be overkill so won't use it). Ensure "main" in the package.json is "app.js"
+2. DONE Install express as is done under the "Using npm" heading at https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#using_npm (Express Application Generator would be overkill so won't use it). Ensure "main" in the package.json is "app.js"
 
 3. Rewrite app.js:
     1. Initialise the express application in a constant called app
