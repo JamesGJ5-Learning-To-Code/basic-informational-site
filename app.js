@@ -29,6 +29,7 @@
 
 // http.createServer(server).listen(8080);
 
+// TODO: write error-handling logic
 const express = require("express");
 const app = express();
 const path = require("path");
