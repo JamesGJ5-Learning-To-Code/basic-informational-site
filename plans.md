@@ -17,7 +17,7 @@
     2. DONE Initialise a port constant as "3000"
     3. DONE Write an app.get for "/", using res.sendFile to send index.html accordingly
         - See https://www.geeksforgeeks.org/express-js-res-sendfile-function/ and https://www.digitalocean.com/community/tutorials/use-expressjs-to-deliver-html-files for sendFile
-    4. Write an app.get for "/about", using res.sendFile to send about.html accordingly
+    4. DONE Write an app.get for "/about", using res.sendFile to send about.html accordingly
     5. Write an app.get for "/contact-me", using res.sendFile to send contact-me.html accordingly
     6. Write an app.get for "/404", using res.sendFile to send 404.html accordingly. Then 
     write an app.get for '*', after all of the previous routes, that res.redirects to 
