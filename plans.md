@@ -23,8 +23,7 @@
     write an app.get for '*', after all of the previous routes, that res.redirects to 
     "/404", like a default. See https://stackoverflow.com/questions/22673218/default-route-in-express-js
     7. DONE Write a TODO to replace the above with proper routing and 404 status codes etc.
-    6. Get rid of error-handling logic
-    7. Write a TODO to implement error-handling
+    8. Write a TODO to implement error-handling
 
 
 4. Update the links in the html files accordingly
